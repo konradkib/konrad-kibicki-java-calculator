@@ -19,10 +19,12 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
+
+
+
         Calculator calculator = new Calculator(5,7);
 
         calculator.addAtoB();
-        calculator.subtractBFromA();
     }
 
 }
