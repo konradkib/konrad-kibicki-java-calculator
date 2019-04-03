@@ -25,6 +25,10 @@ public class Calculator {
         Calculator calculator = new Calculator(5,7);
 
         calculator.addAtoB();
+
+
+        calculator.addAtoB();
+
     }
 
 }
